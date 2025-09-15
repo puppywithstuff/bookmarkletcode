@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bookmarkletcode",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1a44e042-f8ee-45ba-92d2-a45d1bba5d9f",
+      "database_name": "Google authoriser"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
